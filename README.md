@@ -1,17 +1,44 @@
-# choose_your_own_adventure_game
+# Destiny – Flutter Story App
 
-A new Flutter project.
+An interactive story app where the user makes choices and the story changes based on their decisions.
 
-## Getting Started
+# Features
 
-This project is a starting point for a Flutter application.
+✅ Interactive story flow
+✅ Smooth text transition animation
+✅ Background image with dark overlay
+✅ Clean, modern buttons
+✅ Beginner-friendly Flutter project
 
-A few resources to get you started if this is your first Flutter project:
+## Built With
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Flutter (Dart)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# flutter_destiny_game" 
+Android Studio
+
+#  App Preview
+
+<img src="lib/preview.gif">
+
+# 🚀 Getting Started
+Clone this repository
+git clone https://github.com/<your-username>/<your-destini-repo>.git
+
+## Install dependencies
+flutter pub get
+
+## Run the app
+flutter run
+
+## Project Structure
+lib/
+ ├── main.dart
+ ├── story.dart
+ └── story_brain.dart
+assets/
+ └── images/background.png
+pubspec.yaml
+
+## License
+
+Free to use. Modify and improve as you like!
